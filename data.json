@@ -67,12 +67,6 @@
  },
  {
    "Degree Name": "M.A./M.Sc./B.S.",
-   "Degree Subject": "Botany or Zoology",
-   "Extra Conditions": "B.Sc. in both will be acceptable",
-   "POSTS": "Biology"
- },
- {
-   "Degree Name": "M.A./M.Sc./B.S.",
    "Degree Subject": "Micro-Biology and Molecular Genetics",
    "Extra Conditions": "",
    "POSTS": "Biology"
@@ -115,18 +109,6 @@
  },
  {
    "Degree Name": "M.A./M.Sc./B.S.",
-   "Degree Subject": "Botany",
-   "Extra Conditions": "",
-   "POSTS": "Biology"
- },
- {
-   "Degree Name": "M.A./M.Sc./B.S.",
-   "Degree Subject": "Zoology",
-   "Extra Conditions": "",
-   "POSTS": "Biology"
- },
- {
-   "Degree Name": "M.A./M.Sc./B.S.",
    "Degree Subject": "Zoology",
    "Extra Conditions": "",
    "POSTS": "Biology"
@@ -134,12 +116,6 @@
  {
    "Degree Name": "M.A./M.Sc./B.S.",
    "Degree Subject": "Biotechnology",
-   "Extra Conditions": "",
-   "POSTS": "Biology"
- },
- {
-   "Degree Name": "M.A./M.Sc./B.S.",
-   "Degree Subject": "Biochemistry",
    "Extra Conditions": "",
    "POSTS": "Biology"
  },
@@ -989,4 +965,5 @@
    "Extra Conditions": "",
    "POSTS": "History"
  }
+
 ]
